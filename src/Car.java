@@ -17,6 +17,8 @@ public Car (String brand,String model,int amountOfFuel) {
 	
 	
 }
+
+// brake method
 public void brake() {
 	System.out.println("Car is braking");
 }
